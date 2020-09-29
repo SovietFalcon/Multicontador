@@ -116,7 +116,6 @@ public class MainActivity extends AppCompatActivity {
                 c3 = 0;
                 binding.contadorGlobal.setText(String.valueOf(global));
                 binding.contador3.setText(String.valueOf(c3));
-
             }
         });
 
